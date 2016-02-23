@@ -1,2 +1,5 @@
 # hello-world
-just fun
+
+Hi All,
+
+Let's do some fun.
